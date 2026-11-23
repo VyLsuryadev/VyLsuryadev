@@ -28,7 +28,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VyLsuryadev&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VyLsuryadev&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)

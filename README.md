@@ -1,12 +1,27 @@
-# 💫 About Me:
-👨‍💻 I am Not a Programmer<br>🌱 I am currently learning JavaScript<br>🎯 Play Mobile Legends With Me? ID 810068555<br>📧 My Business Email suryadev@gmail.com<br>💰 Donate For Me
+<h1 align="center">Hi 👋, I'm Rama Surya</h1>
+<h3 align="center">A passionate FullStack Developer from Indonesia</h3>
+<img width="3264" height="2176" alt="53908" src="https://github.com/user-attachments/assets/9b60d594-07f9-4b86-8da8-b4236949433d" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<img
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=HALO+NAMA+SAYA+RAMA+SURYA;SAYA+DARI+LAMPUNG+SELATAN;KEC.+WAY+SULAN;SAYA+ADALAH+DEVELOPER+GIHUB😊"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
+<p align="left"> <a href="https://instagram.com/suryastecw_" target="blank"><img src="https://img.shields.io/twitter/follow/suryastecw_?logo=twitter&style=for-the-badge" alt="suryastecw_"  </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suryastecw_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@vyxsur_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Vyxsur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryaavillain@yahoo.com) 
+- 🔭 I’m currently working on **Vexa Web App**
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+- 🌱 I’m currently learning **DevOps**
+
+- 💬 Ask me about **Android , MEARN**
+
+- 📫 How to reach me **suryaavillain@yahoo.com**
+
+- ⚡ Fun fact **I am Funny**
+- 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=VyLsuryadev&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=VyLsuryadev&theme=ambient_gradient&hide_border=false)<br/>

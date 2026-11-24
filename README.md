@@ -45,12 +45,13 @@
         
 ![](https://github-profile-trophy.vercel.app/?username=Shsuryaresz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=H+I+H+U+U+U+!+!+!+!+😝"
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=H+I+I+H+U+U+U+!+!+😝"
             alt="Typing SVG"
         />
     </a>
 </p>
 </div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Shsuryaresz&icon=0&color=0)](https://visitcount.itsvg.in)
 

@@ -41,7 +41,7 @@
   <a name=Shsuryaresz&label=VIEWS&style=flat-square&color=orange" />
 </p>
 <details>
-    <summary> <b>Click To Here👋</b></summary><br/>
+    <summary> <b>Hii Click To Here👋</b></summary><br/>
         
 ![](https://github-profile-trophy.vercel.app/?username=Shsuryaresz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <img

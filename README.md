@@ -21,7 +21,7 @@
 - 📫 How to reach me **suryaavillain@yahoo.com**
 
 - ⚡ Fun fact **I am Funny**
-- 
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=VyLsuryadev&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=VyLsuryadev&theme=ambient_gradient&hide_border=false)<br/>

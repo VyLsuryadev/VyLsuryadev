@@ -10,6 +10,9 @@
     </a>
 </p>
 </div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Shsuryaresz&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="left"> <a href="https://instagram.com/suryastecw_" target="blank"><img src="https://img.shields.io/twitter/follow/suryastecw_?logo=twitter&style=for-the-badge" alt="suryastecw_"  </p>
 
 - 🔭 I’m currently working on **Vexa Web App**
@@ -21,7 +24,13 @@
 - 📫 How to reach me **suryaavillain@yahoo.com**
 
 - ⚡ Fun fact **I am Funny**
+
+---
+[![](https://visitcount.itsvg.in/api?id=Shsuryaresz&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ### 🚀 My Social Media 
+<p align="center"><img src="https://count.getloli.com/get/@Shsuryaresz-github-readme?theme=rule34" /></p>
+<p align="center">
 <p align="center">
   <a href="https://instagram.com/suryastecw_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/6283174311648"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -30,3 +39,13 @@
   <a href="https://github.com/VyzaaDev"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/channel/UCl77jQD3Fp__z1oRxm-fA"><img src="https://img.shields.io/youtube/channel/subscribers/UCl77jQD3Fp__z1oRxm-fA?style=social" /> <br>
   <a name=Shsuryaresz&label=VIEWS&style=flat-square&color=orange" />
+</p>
+<details>
+    <summary> <b>Click To Here👋</b></summary><br/>
+        
+![](https://github-profile-trophy.vercel.app/?username=Shsuryaresz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Shsuryaresz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
